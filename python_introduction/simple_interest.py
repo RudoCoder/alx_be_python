@@ -1,12 +1,12 @@
 #Define variables
-principal = P = 1000
-rate = R = 5/100
-time = T = 3
+principal = 1000
+rate = 0.05
+time = 3 
 
 #The formula for calculating interest
-I = P * R * T
+Interest = principal * rate * time
 
 #print results
 print("\n")
-print(f"The simple interest is : {I}")
+print(f"The simple interest is : {Interest}")
 print ("\n")
